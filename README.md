@@ -1,5 +1,5 @@
-Name: BAyezid Bostami 
-Email-ID: 253-15-442@diu.edu.bd
+#Name: BAyezid Bostami 
+#Email-ID: 253-15-442@diu.edu.bd
 
 
 # Tender Package Builder
